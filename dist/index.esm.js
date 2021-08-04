@@ -2222,7 +2222,7 @@ var socials = [
     {
         label: "Reddit",
         icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
+        href: "",
     },
 ];
 var MENU_HEIGHT = 64;
