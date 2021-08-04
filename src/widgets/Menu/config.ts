@@ -122,7 +122,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/DolphinFinance3",
+    href: "https://twitter.com/Bottlenose_Fin",
   },
   {
     label: "Reddit",
