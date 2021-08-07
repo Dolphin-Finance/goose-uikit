@@ -127,7 +127,7 @@ export const socials = [
   {
     label: "Reddit",
     icon: "RedditIcon",
-    href: "",
+    href: "https://www.reddit.com/r/CryptoMoonShots/comments/ozx1pw/btn_brand_new_mechanism_to_fight_bots_antibot/",
   },
 ];
 
